@@ -70,6 +70,7 @@ If you paste incomplete JSON, the workflow will break. Copy everything.
 3. Set access to **Anyone with the link**
 4. Copy file URL
 5. Paste it into **Download Resume** node (`File ID → URL mode`)
+6. Official setup guide page link "https://docs.n8n.io/integrations/builtin/credentials/google/oauth-generic/#scopes"
 
 ---
 
